@@ -21,3 +21,8 @@ h.	Pull
 Descarga y actualiza un contenido y este a su vez es mostrado
 i.	Fetch 
 Descarga commits de otro repositorio y este trae a ese commit a otro repositorio 
+
+a.	¿Para qué sirve el comando cd? Sirve para entrar a una carptea pero tambien con solo poner dos puntos mas puedes salir 
+b.	¿Para qué sirve el comando dir? Para ver que archivos hay en la carpeta ingresada
+c.	¿Para qué sirve el comando mkdir? Con este comando creamos directorios 
+d.	¿Para qué sirve el comando cd ..?Para salir de la carpetaen la que ingresamos 
